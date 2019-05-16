@@ -1,0 +1,66 @@
+{
+    "authors": [
+        {
+            "name": "Kilu von Prince",
+            "affiliation": "Humboldt-Universität zu Berlin, Philosophische Fakultät II, Institut für deutsche Sprache und Linguistik, Unter den Linden 6, 10099 Berlin",
+            "email": "kilu.von.prince@hu-berlin.de", 
+            "url": "http://kiluvonprince.de"
+        }
+    ],
+    "language": {
+        "name": "Daakaka",
+        "isocode": "bpa",
+        "glottocode": "daka1243"
+    },
+    "date_published": "2017-03-30",
+    "number": 1,
+    "properties": {
+        "entry_id": "lx",
+        "entry_sep": "\\lx",
+        "entry_label_as_regex_for_link": "[^;]+",
+        "image": {"copyright": "Copyright Tio Bang"},
+        "marker_map": {
+            "zcom2": "zcom1"
+        },
+        "labels": {
+            "lc": "lexical citation form",
+            "ue": "usage",
+            "es": "etymological source",
+            "ee": "encyclopedic information",
+            "et": "etymology",
+            "pd": "paradigm",
+            "sc": "Scientific name",
+            "1s": "1st person singular",
+            "2s": "2nd person singular",
+            "3s": "3rd person singular",
+            "3d": "3rd person dual",
+            "dv": "dialectal variant",
+            "rd": "reduplicated form"           
+        },
+        "entry_map": {
+            "rd": "Reduplicated_Form", 
+            "lc": "Lexical_Citation_Form",
+            "ue": "Usage",
+            "es": "Etymological_Source",
+            "ee": "Encyclopedic_Information",
+            "pd": "Paradigm",
+            "1s": "1st_Person_Singular",
+            "2s": "2nd_Person_Singular",
+            "3s": "3rd_Person_Singular",
+            "3d": "3rd_Person_Dual",
+            "dv": "Dialectal_Variant"
+        },
+        "sense_map": {
+            "ge": "Gloss",
+            "dn": "alt_translation1"
+        },
+        "process_links_in_labels": [
+            "cf", "an", "sy"
+        ],
+        "custom_fields": [],
+        "second_tab": ["Bislama", "etymological source", "encyclopedic information"],
+        "metalanguages": {
+            "gxx": "Bislama"
+        }
+    }
+}

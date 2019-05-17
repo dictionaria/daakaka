@@ -12,7 +12,6 @@ Releases of this repository are archived with and accessible through
 is published on the [Dictionaria website](https://dictionaria.clld.org).
 
 <h2 id="background">Background</h2>
-
 <h3 id="the-language-and-its-speakers">The language and its speakers</h3>
 
 This is a dictionary of the Oceanic language Daakaka. The language is spoken by approximately 1000 speakers in the West of the island of Ambrym, Vanuatu. It is used as the main language within families and villages of the region and is still acquired as a first language by most children in the region. However, it is not represented in any public or official contexts. There are efforts by the Vanuatu government and the research community to enable teachers to use local vernaculars as languages of instruction at primary schools, but these are still in their infancy.
@@ -53,7 +52,6 @@ Another important purpose of the database was the production of illustrated dict
 Finally, I wanted to reserve the option of publishing the dictionary for a general and academic readership. This is why I added encyclopedic information to culture-specific concepts, scientific names for plants and animals (where possible) and similar.
 
 <h2 id="conventions">Conventions</h2>
-
 <h3 id="structure-of-entries">Structure of entries</h3>
 
 Every entry contains minimally a lexeme and a translation to English, either in the gloss field or in the definition field. Information on word class affiliations is provided for almost all entries. Not all entries are disambiguated into more specific subclasses – for example, verbs will be labeled as _v_, and only in some entries will this label be more specific such as _v.tr_ for fully transitive or semitransitive verbs and _v.itr_ for intransitive verbs. A list of part-of-speech abbreviations is given in the table below. More information on word classes in Daakaka can be found in <span class="citation">von Prince 2015a</span>.
@@ -250,38 +248,16 @@ Except for entries that are transparent loan words from Bislama, a translation t
 </tr>
 </tbody>
 </table>
-
-  
-
 <h3 id="abbreviations">Abbreviations</h3>
 
 The dictionary contains various types of abbreviations. Apart from the abbreviations for part-of-speech categories described above, there are also abbreviations for functional glosses, such as <span style="font-variant: small-caps;">1d.ex</span> for ‘first person dual exclusive’. A full list of these abbreviations is given in the table below. There is one group of abbreviations in this list that warrants special comment here: A number of lexemes in the database are glossed as a combination of <span style="font-variant: small-caps;">em</span>, followed by person-number information as in <span style="font-variant: small-caps;">em.2s</span>; this stands for ‘emotive, second person singular’. This is a class of lexemes where an inflected noun has fully merged with the person-number inflection so that they can no longer be separated. They are also semantically bleached in that they only exist as subjects of certain emotion verbs such as _nek_ ‘be afraid’ as in the following example:
 
-<div class="sentence-wrapper">
-<div style="float: left; width: 25px">
-    (1)
-</div>
-<div class="sentence" style="float: left">
-<div class="body">
-<div class="object-language">om mwe nek</div>
-<div class="gloss-box">
-<div class="gloss-unit">
-<div class="morpheme">om</div>
-<div class="gloss"><span style="font-variant: small-caps;">EM.2SG</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mwe</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">nek</div>
-<div class="gloss">be.afraid</div>
-</div>
-</div>
-<div class="translation">'you are afraid'</div>
-</div>
-</div>
-</div>
+<table><tbody>
+<tr><td class="object-language" colspan="3">om mwe nek</td></tr>
+<tr><td class="morpheme">om</td><td class="morpheme">mwe</td><td class="morpheme">nek</td></tr>
+<tr><td class="gloss"><span style="font-variant: small-caps;">EM.2SG</span></td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">be.afraid</td></tr>
+<tr><td class="translation" colspan="3">'you are afraid'</td></tr>
+</tbody></table>
 
 They etymologically derive from the inflected noun for ‘skin’, as can still be seen in related lexemes from neighbouring varieties and the first-person form _ul-uk_, which could be literally translated as ‘my skin’. For more on expressions of emotions in Daakaka, see <span class="citation">von Prince (submitted)</span>.
 
@@ -612,9 +588,6 @@ There are some other, general, abbreviations in the running text, which are list
 </tr>
 </tbody>
 </table>
-
-  
-
 <h3 id="orthography">Orthography</h3>
 
 The orthography used for the dictionary and examples follows the standards developed by myself and the Daakaka Language Committee. There were close to no written records of the language before that. Basic correspondences between orthographic and phonemic values are given in the tables below, which are from <span class="citation">von Prince (2015a)</span>.
@@ -677,9 +650,6 @@ The orthography used for the dictionary and examples follows the standards devel
 </tr>
 </tbody>
 </table>
-
-  
-
 <figure class="img">
 <img src="http://cdstar.shh.mpg.de/bitstreams/EAEA0-730F-4F43-2CC9-0/Vowels.png" title="fig:vowels"/>
 <figcaption>Figure 1</figcaption>
@@ -692,7 +662,6 @@ For details on the orthography development, see <span class="citation">von Princ
 The dictionary database is linked with a total of 60 illustration files. These are black-and-white drawings created by local artist and Daakaka speaker Tio Bang, who holds their copy-right.
 
 <h2 id="Semantic distinctions between near synonyms">Semantic distinctions between near synonyms</h2>
-
 <h3 id="Cutting verbs">Cutting verbs</h3>
 
 There are several verbs in the dictionary that are translated as variations of _cut_ into English. The differences between them are hard to capture by simple translations. Many of those verbs are a combination of the two roots _sye(wa)_ and _ta(wa)_ with a resultative suffix.
@@ -962,9 +931,6 @@ These are preliminary conclusions which are based on an elicitation I did withon
 </tr>
 </tbody>
 </table>
-
-  
-
 <h3 id="Pluractionality">Pluractionality</h3>
 
 A number of verbs have the same translation into English and differ primarily in whether they describe a singular event or a plural event. For example, _gilye_ and _puos_ both translate as ‘buy’, but _gilye_ refers to an act of buying one individual item, while _puos_ refers to an act of buying several items. There is a small list of verbs which come in such pairs, including _mur_ and _tesi_ ‘fall’ and _liye_ and _tilya_ ‘take; carry’.
@@ -974,7 +940,6 @@ Another domain which instantiates this difference are verbs for fighting and kil
 The most productive method to talk about different ways of killing more specifically is to combine a verb with the resultative suffix _-veni_ ‘to death’. Formore on pluractionality and resultative suffixes in Daakaka, see the chapter on verbs in \[von Prince, 2015\].
 
 <h2 id="Semantic domains">Semantic domains</h2>
-
 <h3 id="General">General</h3>
 
 Many entries are assigned to one or more semantic domain (\\sd), such as _fauna_ or _climate_. This classification serves various purposes. The immediate goal forme was to have a basis for a thematically organized dictionary for local useon Ambrym. The speakers preferred to have thematically structured sectionsrather than a purely alphabetic organization. For this reason, some of thecategories that I chose reflect locally relevant taxonomies and concepts ratherthan European ones. I will expand on the main characteristics of the taxonomies in Daakaka in the following section.
@@ -995,9 +960,6 @@ There are some clearly identifiable hierarchically ordered groups, which couldbe
 <img alt="Taxonomy of plants with stalks or trunks" class="img-thumbnail" src="http://cdstar.shh.mpg.de/bitstreams/EAEA0-AD28-25DB-54CD-0/TaxonomiesLee.png"/>
 <figcaption>Figure 2</figcaption>
 </figure>
-
-  
-
 <figure class="img" id="fig3">
 <img alt="Taxonomy of vines" class="img-thumbnail" src="http://cdstar.shh.mpg.de/bitstreams/EAEA0-9CCD-6094-EC44-0/TaxonomiesAua.png"/>
 <figcaption>Figure 3</figcaption>
@@ -1007,113 +969,18 @@ There are some clearly identifiable hierarchically ordered groups, which couldbe
 
 Subdivisions within these taxa can be inferred from the way people talk about the relations between them as in the following examples:
 
-<div class="sentence-wrapper">
-<div style="float: left; width: 25px">
-    (2)
-</div>
-<div class="sentence" style="float: left">
-<div class="body">
-<div class="object-language"><em>myabon mw=i ló, myabon yesyes a myabon pipili</em></div>
-<div class="gloss-box">
-<div class="gloss-unit">
-<div class="morpheme">myabon</div>
-<div class="gloss">m.banana</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mw=i</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL=COP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ló</div>
-<div class="gloss">two</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">myabon</div>
-<div class="gloss">m.banana</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">yesyes</div>
-<div class="gloss">green</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">a</div>
-<div class="gloss">and</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">myabon</div>
-<div class="gloss">m.banana</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">pipili</div>
-<div class="gloss">red</div>
-</div>
-</div>
-<div class="translation">'There are two myabon banana (species), a green one and a red one'</div>
-</div>
-</div>
-</div>
-
-<div class="sentence-wrapper">
-<div style="float: left; width: 25px">
-    (3)
-</div>
-<div class="sentence" style="float: left">
-<div class="body">
-<div class="object-language"><em>aua wowo nyoo, aba, akrep, aua wowo nyoo na mu du ate</em></div>
-<div class="gloss-box">
-<div class="gloss-unit">
-<div class="morpheme">aua</div>
-<div class="gloss">rope</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">wowo</div>
-<div class="gloss">big</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">nyoo</div>
-<div class="gloss"><span style="font-variant: small-caps;">3PL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">aba</div>
-<div class="gloss">liana.species</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">akrep</div>
-<div class="gloss">liana.species</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">aua</div>
-<div class="gloss">rope</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">wowo</div>
-<div class="gloss">big</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">nyoo</div>
-<div class="gloss"><span style="font-variant: small-caps;">3PL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">na</div>
-<div class="gloss"><span style="font-variant: small-caps;">COMP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mu</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">du</div>
-<div class="gloss">stay</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ate</div>
-<div class="gloss">bite</div>
-</div>
-</div>
-<div class="translation">'the big vines, <em>aba, akrep</em>, the big vines wich grow there'</div>
-</div>
-</div>
-</div>
+<table><tbody>
+<tr><td class="object-language" colspan="8"><em>myabon mw=i ló, myabon yesyes a myabon pipili</em></td></tr>
+<tr><td class="morpheme">myabon</td><td class="morpheme">mw=i</td><td class="morpheme">ló</td><td class="morpheme">myabon</td><td class="morpheme">yesyes</td><td class="morpheme">a</td><td class="morpheme">myabon</td><td class="morpheme">pipili</td></tr>
+<tr><td class="gloss">m.banana</td><td class="gloss"><span style="font-variant: small-caps;">REAL=COP</span></td><td class="gloss">two</td><td class="gloss">m.banana</td><td class="gloss">green</td><td class="gloss">and</td><td class="gloss">m.banana</td><td class="gloss">red</td></tr>
+<tr><td class="translation" colspan="8">'There are two myabon banana (species), a green one and a red one'</td></tr>
+</tbody></table>
+<table><tbody>
+<tr><td class="object-language" colspan="12"><em>aua wowo nyoo, aba, akrep, aua wowo nyoo na mu du ate</em></td></tr>
+<tr><td class="morpheme">aua</td><td class="morpheme">wowo</td><td class="morpheme">nyoo</td><td class="morpheme">aba</td><td class="morpheme">akrep</td><td class="morpheme">aua</td><td class="morpheme">wowo</td><td class="morpheme">nyoo</td><td class="morpheme">na</td><td class="morpheme">mu</td><td class="morpheme">du</td><td class="morpheme">ate</td></tr>
+<tr><td class="gloss">rope</td><td class="gloss">big</td><td class="gloss"><span style="font-variant: small-caps;">3PL</span></td><td class="gloss">liana.species</td><td class="gloss">liana.species</td><td class="gloss">rope</td><td class="gloss">big</td><td class="gloss"><span style="font-variant: small-caps;">3PL</span></td><td class="gloss"><span style="font-variant: small-caps;">COMP</span></td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">stay</td><td class="gloss">bite</td></tr>
+<tr><td class="translation" colspan="12">'the big vines, <em>aba, akrep</em>, the big vines wich grow there'</td></tr>
+</tbody></table>
 
 The realm of animals appears to be less structured than that. In the terminology of \[Berlin, 1973\], there are many generic taxa and some of them appear to be subdivided into varietal taxa. Thus, there are several kinds of snakes and spiders. To the extent that there are terms which cover a large and diverse group of animals, these terms do definitively not match with Western taxonomies.
 
@@ -1121,342 +988,35 @@ The realm of animals appears to be less structured than that. In the terminology
 
  In the following example, it is clear not just from the terminology but alsofrom the comparisons, that the flying fox is grouped with other animals which can fly, be they butterflies or chickens.
 
-<div class="sentence-wrapper">
-<div style="float: left; width: 25px">
-    (4)
-</div>
-<div class="sentence" style="float: left">
-<div class="body">
-<div class="object-language"><em>gee ma ge myane bwii, ma ge myane, ao, sye na ebya-oo mu du, ma ge myane baséé</em></div>
-<div class="gloss-box">
-<div class="gloss-unit">
-<div class="morpheme">gee</div>
-<div class="gloss">flying.fox</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ma</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ge</div>
-<div class="gloss">be.like</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">myane</div>
-<div class="gloss">with</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">bwii</div>
-<div class="gloss">butterfly</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ma</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ge</div>
-<div class="gloss">be.like</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">myane</div>
-<div class="gloss">with</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ao</div>
-<div class="gloss">yes</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">sye</div>
-<div class="gloss">something</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">na</div>
-<div class="gloss"><span style="font-variant: small-caps;">COMP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ebya-oo</div>
-<div class="gloss">wing-<span style="font-variant: small-caps;">3PL.POSS</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mu</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">du</div>
-<div class="gloss"><span style="font-variant: small-caps;">stay</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ma</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ge</div>
-<div class="gloss">be.like</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">myane</div>
-<div class="gloss">with</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme"><em>baséé</em></div>
-<div class="gloss">bird</div>
-</div>
-</div>
-<div class="translation">'The flying fox is like a butterfly, like, yes, things with wings, like a <em>baséé</em>,'</div>
-</div>
-</div>
-</div>
-
-<div class="sentence-wrapper">
-<div style="float: left; width: 25px">
-    (5)
-</div>
-<div class="sentence" style="float: left">
-<div class="body">
-<div class="object-language">mw-i sisye nyoo na ya-m ki-te</div>
-<div class="gloss-box">
-<div class="gloss-unit">
-<div class="morpheme">mw-i</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL-COP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">sisye</div>
-<div class="gloss">thing</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">nyoo</div>
-<div class="gloss"><span style="font-variant: small-caps;">3PL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">na</div>
-<div class="gloss"><span style="font-variant: small-caps;">COMP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ya-m</div>
-<div class="gloss"><span style="font-variant: small-caps;">3PL-REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ki-te</div>
-<div class="gloss">like<span style="font-variant: small-caps;">DEM.MD</span></div>
-</div>
-</div>
-<div class="translation">'it's like such things'</div>
-</div>
-</div>
-</div>
-
-<div class="sentence-wrapper">
-<div style="float: left; width: 25px">
-    (6)
-</div>
-<div class="sentence" style="float: left">
-<div class="body">
-<div class="object-language"><em>ma ge myane sye mwe pwis na ebya-oo mu du, ya-m ka ma ge myane tyu, a tyu ra-m luwuo te me momo</em></div>
-<div class="gloss-box">
-<div class="gloss-unit">
-<div class="morpheme">ma</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ge</div>
-<div class="gloss">be.like</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">myane</div>
-<div class="gloss">with</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">sye</div>
-<div class="gloss">something</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mwe</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">pwis</div>
-<div class="gloss">be.plentiful</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">na</div>
-<div class="gloss"><span style="font-variant: small-caps;">COMP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ebya-oo</div>
-<div class="gloss">wing-<span style="font-variant: small-caps;">3PL.POSS</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mu</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">du</div>
-<div class="gloss">stay</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ya-m</div>
-<div class="gloss"><span style="font-variant: small-caps;">3PL-REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ka</div>
-<div class="gloss">say</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ma</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ge</div>
-<div class="gloss">be.like</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">myane</div>
-<div class="gloss">with</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">tyu</div>
-<div class="gloss">chicken</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">a</div>
-<div class="gloss">and</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">tyu</div>
-<div class="gloss">chicken</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ra-m</div>
-<div class="gloss"><span style="font-variant: small-caps;">1PL.IN-REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">luwuo</div>
-<div class="gloss">feed</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">te</div>
-<div class="gloss"><span style="font-variant: small-caps;">DISC</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ma</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">momo</div>
-<div class="gloss">tame</div>
-</div>
-</div>
-<div class="translation">'like many things with wings, they say like a chicken, but the chicken
-is fed by us and is tame'</div>
-</div>
-</div>
-</div>
+<table><tbody>
+<tr><td class="object-language" colspan="18"><em>gee ma ge myane bwii, ma ge myane, ao, sye na ebya-oo mu du, ma ge myane baséé</em></td></tr>
+<tr><td class="morpheme">gee</td><td class="morpheme">ma</td><td class="morpheme">ge</td><td class="morpheme">myane</td><td class="morpheme">bwii</td><td class="morpheme">ma</td><td class="morpheme">ge</td><td class="morpheme">myane</td><td class="morpheme">ao</td><td class="morpheme">sye</td><td class="morpheme">na</td><td class="morpheme">ebya-oo</td><td class="morpheme">mu</td><td class="morpheme">du</td><td class="morpheme">ma</td><td class="morpheme">ge</td><td class="morpheme">myane</td><td class="morpheme"><em>baséé</em></td></tr>
+<tr><td class="gloss">flying.fox</td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">be.like</td><td class="gloss">with</td><td class="gloss">butterfly</td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">be.like</td><td class="gloss">with</td><td class="gloss">yes</td><td class="gloss">something</td><td class="gloss"><span style="font-variant: small-caps;">COMP</span></td><td class="gloss">wing-<span style="font-variant: small-caps;">3PL.POSS</span></td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss"><span style="font-variant: small-caps;">stay</span></td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">be.like</td><td class="gloss">with</td><td class="gloss">bird</td></tr>
+<tr><td class="translation" colspan="18">'The flying fox is like a butterfly, like, yes, things with wings, like a <em>baséé</em>,'</td></tr>
+</tbody></table>
+<table><tbody>
+<tr><td class="object-language" colspan="6">mw-i sisye nyoo na ya-m ki-te</td></tr>
+<tr><td class="morpheme">mw-i</td><td class="morpheme">sisye</td><td class="morpheme">nyoo</td><td class="morpheme">na</td><td class="morpheme">ya-m</td><td class="morpheme">ki-te</td></tr>
+<tr><td class="gloss"><span style="font-variant: small-caps;">REAL-COP</span></td><td class="gloss">thing</td><td class="gloss"><span style="font-variant: small-caps;">3PL</span></td><td class="gloss"><span style="font-variant: small-caps;">COMP</span></td><td class="gloss"><span style="font-variant: small-caps;">3PL-REAL</span></td><td class="gloss">like<span style="font-variant: small-caps;">DEM.MD</span></td></tr>
+<tr><td class="translation" colspan="6">'it's like such things'</td></tr>
+</tbody></table>
+<table><tbody>
+<tr><td class="object-language" colspan="23"><em>ma ge myane sye mwe pwis na ebya-oo mu du, ya-m ka ma ge myane tyu, a tyu ra-m luwuo te me momo</em></td></tr>
+<tr><td class="morpheme">ma</td><td class="morpheme">ge</td><td class="morpheme">myane</td><td class="morpheme">sye</td><td class="morpheme">mwe</td><td class="morpheme">pwis</td><td class="morpheme">na</td><td class="morpheme">ebya-oo</td><td class="morpheme">mu</td><td class="morpheme">du</td><td class="morpheme">ya-m</td><td class="morpheme">ka</td><td class="morpheme">ma</td><td class="morpheme">ge</td><td class="morpheme">myane</td><td class="morpheme">tyu</td><td class="morpheme">a</td><td class="morpheme">tyu</td><td class="morpheme">ra-m</td><td class="morpheme">luwuo</td><td class="morpheme">te</td><td class="morpheme">ma</td><td class="morpheme">momo</td></tr>
+<tr><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">be.like</td><td class="gloss">with</td><td class="gloss">something</td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">be.plentiful</td><td class="gloss"><span style="font-variant: small-caps;">COMP</span></td><td class="gloss">wing-<span style="font-variant: small-caps;">3PL.POSS</span></td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">stay</td><td class="gloss"><span style="font-variant: small-caps;">3PL-REAL</span></td><td class="gloss">say</td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">be.like</td><td class="gloss">with</td><td class="gloss">chicken</td><td class="gloss">and</td><td class="gloss">chicken</td><td class="gloss"><span style="font-variant: small-caps;">1PL.IN-REAL</span></td><td class="gloss">feed</td><td class="gloss"><span style="font-variant: small-caps;">DISC</span></td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">tame</td></tr>
+<tr><td class="translation" colspan="23">'like many things with wings, they say like a chicken, but the chicken
+is fed by us and is tame'</td></tr>
+</tbody></table>
 
 Moreover, being a _baséé_ does not appear to be a property that characterizesan individual across their entire life span. It may apply only to a certain stagein their life cycle instead. This is illustrated by the following explanation about the woodborer.
 
-<div class="sentence-wrapper">
-<div style="float: left; width: 25px">
-    (7)
-</div>
-<div class="sentence" style="float: left">
-<div class="body">
-<div class="object-language"><em>vyar ten mwe me i drowen, ale mwe me i vyar misis, ale vyan i vyar ka~ka puon te ka, vyan baséé</em></div>
-<div class="gloss-box">
-<div class="gloss-unit">
-<div class="morpheme">vyar</div>
-<div class="gloss">wood.borer</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ten</div>
-<div class="gloss">native</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mwe</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">me</div>
-<div class="gloss">come</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">i</div>
-<div class="gloss"><span style="font-variant: small-caps;">COP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">drowen</div>
-<div class="gloss">maggot</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ale</div>
-<div class="gloss">well</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">mwe</div>
-<div class="gloss"><span style="font-variant: small-caps;">REAL</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">me</div>
-<div class="gloss">come</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">i</div>
-<div class="gloss"><span style="font-variant: small-caps;">COP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">vyar</div>
-<div class="gloss">wood.borer</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">misis</div>
-<div class="gloss">white.woman</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ale</div>
-<div class="gloss">then</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">vyan</div>
-<div class="gloss">go</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">i</div>
-<div class="gloss"><span style="font-variant: small-caps;">COP</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">vyar</div>
-<div class="gloss">wood.borer</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ka~ka</div>
-<div class="gloss"><span style="font-variant: small-caps;">REDUP</span>~fly</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">puon</div>
-<div class="gloss"><span style="font-variant: small-caps;">FUT.AGAIN</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">te</div>
-<div class="gloss"><span style="font-variant: small-caps;">DISC</span></div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">ka</div>
-<div class="gloss">fly</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">vyan</div>
-<div class="gloss">go</div>
-</div>
-<div class="gloss-unit">
-<div class="morpheme">baséé</div>
-<div class="gloss">bird</div>
-</div>
-</div>
-<div class="translation">'The original woodborer becomes a larva, and then a 'bride' woodborer
-and then a flying woodborer, a bird woodborer’ (lit. 'it becomes a baséé')'</div>
-</div>
-</div>
-</div>
-
+<table><tbody>
+<tr><td class="object-language" colspan="22"><em>vyar ten mwe me i drowen, ale mwe me i vyar misis, ale vyan i vyar ka~ka puon te ka, vyan baséé</em></td></tr>
+<tr><td class="morpheme">vyar</td><td class="morpheme">ten</td><td class="morpheme">mwe</td><td class="morpheme">me</td><td class="morpheme">i</td><td class="morpheme">drowen</td><td class="morpheme">ale</td><td class="morpheme">mwe</td><td class="morpheme">me</td><td class="morpheme">i</td><td class="morpheme">vyar</td><td class="morpheme">misis</td><td class="morpheme">ale</td><td class="morpheme">vyan</td><td class="morpheme">i</td><td class="morpheme">vyar</td><td class="morpheme">ka~ka</td><td class="morpheme">puon</td><td class="morpheme">te</td><td class="morpheme">ka</td><td class="morpheme">vyan</td><td class="morpheme">baséé</td></tr>
+<tr><td class="gloss">wood.borer</td><td class="gloss">native</td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">come</td><td class="gloss"><span style="font-variant: small-caps;">COP</span></td><td class="gloss">maggot</td><td class="gloss">well</td><td class="gloss"><span style="font-variant: small-caps;">REAL</span></td><td class="gloss">come</td><td class="gloss"><span style="font-variant: small-caps;">COP</span></td><td class="gloss">wood.borer</td><td class="gloss">white.woman</td><td class="gloss">then</td><td class="gloss">go</td><td class="gloss"><span style="font-variant: small-caps;">COP</span></td><td class="gloss">wood.borer</td><td class="gloss"><span style="font-variant: small-caps;">REDUP</span>~fly</td><td class="gloss"><span style="font-variant: small-caps;">FUT.AGAIN</span></td><td class="gloss"><span style="font-variant: small-caps;">DISC</span></td><td class="gloss">fly</td><td class="gloss">go</td><td class="gloss">bird</td></tr>
+<tr><td class="translation" colspan="22">'The original woodborer becomes a larva, and then a 'bride' woodborer
+and then a flying woodborer, a bird woodborer’ (lit. 'it becomes a baséé')'</td></tr>
+</tbody></table>
 <h2 id="Acknowledgements">Acknowledgements</h2>
 
 I would like to thank the people of West Ambrym for their hospitality and their work with me. In particular, I want to thank chief Filip Talépu Bweangtan for sharing his great knowledge of the language and facilitating my work throughout the region. Donatien Kaingas Merané and his wife Catherine, of Sesivi, for their great commitment to help me understand their language and to keep me comfortable at all times; Tyo Maseng, for his immeasurably valuable input as well as the illustrations he provided; Seebu Esther Bweangtan for her detailed discussion and explanation of previous dictionary versions; and all the members of the Language Committee, consisting of chief Filip Talépu Bweangtan, Donatien Kaingas Merané, chief Ruben Byakmwelip of Yelevyak, chief Moses Emwele of Baiap, Andrew Tavi of Baiap, Augustino Merané of Sesivi and chief John Bongmyal of Baiap.

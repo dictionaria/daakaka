@@ -598,7 +598,7 @@ SN000596,small,kekei_1,,,SMALL [1246],small,,,,,smol
 SN000597,scoop out,kekyer,,,,scoop.out,,,coconut,kyaate,selaot
 SN000598,only,kemyas,,,ONLY [1580],only,,,,,nomo
 SN000599,[first person dual exclusive],kenma,,,,$1d.ex,,,,,mitufala
-SN000600,"[demonstrative, distal]",ker,,,,$dem.dist,,,,ke_1,ia
+SN000600,"[demonstrative, distal]",ker,,,,$dem.dist,,,,ke,ia
 SN000601,clear one's throat,kesmya,,,,clear.throat,,,,,mekem wan noise bifo we yu toktok
 SN000602,every; entirely,kevene,,,ALL [98],every,,,,,evri
 SN000603,remove outer layers of a plant before replanting it,kevitye,,,PEEL [275],peel,,,,,"skinimaot, pilim (wan stampa)"
@@ -961,7 +961,7 @@ SN000959,different,minyes,,,DIFFERENT [2504],different,,,,,difren
 SN000960,honor,minyo,,,,honor,,,,,onarem
 SN000961,black,mir,,,BLACK [163],black,,,,,blak
 SN000962,mission,misen,,,,mission,,,,,
-SN000963,thick,misii,nip_1,,THICK [1244],thick,,,,,tik
+SN000963,thick,misii,nip,,THICK [1244],thick,,,,,tik
 SN000964,white woman,misis,,,,white.woman,,,,,
 SN000965,his/her uncle,misy,,,UNCLE [1327],uncle,,,family,,angkel blong hem
 SN000966,uncle,misya,,,UNCLE [1327],uncle,,,family,,angel
@@ -994,7 +994,7 @@ SN000992,stir in one's sleep,mowus,,"sich regen (im Schlaf, vorm aufwachen)",,st
 SN000993,earthquake,mu_1,,,EARTHQUAKE [6],earthquake,,,climate,,etkwek
 SN000994,quake,mu_2,,,,,,,,,"(graon) i sek, i etkwek"
 SN000995,[realis],mu_3,,,,$real,,,,,
-SN000996,meat,mubuo,,,FLESH OR MEAT [2615],meat,,,food,wusi_1,mit
+SN000996,meat,mubuo,,,FLESH OR MEAT [2615],meat,,,food,wusi,mit
 SN000997,piece,mur,,,PART [779],piece,,,,,pis
 SN000998,(of a single object) fall down,mur_1,,,FALL [1280],fall,,,,,foldaon
 SN000999,a bit (without existential presupposition),mursi,,,,a.bit,,,,,lelebet
@@ -1505,7 +1505,7 @@ SN001503,steam,sou,,,STEAM [1193],steam,,,,,stim
 SN001504,lie,sowe,,,LIE (MISLEAD) [601],lie,,,,,stap silip long
 SN001505,spirit,speret,,,SPIRIT [53],spirit,,,,,
 SN001506,sport,sport,,,,sport,,,,,
-SN001507,start,stat,,,BEGIN [1806],start,,,,tebweti ; tebwesye,
+SN001507,start,stat,,,BEGIN [1806],start,,,,tebwesye ; tebweti,
 SN001508,start,statem,,,BEGIN [1806],start,,,,,
 SN001509,story,stori,,,STORY [2060],story,,,,,
 SN001510,line,string,,,LINE [1048],line,,,,,
@@ -1574,7 +1574,7 @@ SN001572,far away ; far.away,syoten,,"can also be used as an adverb (2315), but 
 SN001573,land,syu,,,,land,,,,,"fas, lan"
 SN001574,uncle of,syuk,,,,uncle.of,,,family,,angkel
 SN001575,rubbish,syuk_1,,"used only as a suffix as in borsyuk and in syuksyuk, not as a full word",,rubbish,,,,,
-SN001576,rubbish,syuksyuk,,,,rubbish,,,,wulis ; wilis,doti
+SN001576,rubbish,syuksyuk,,,,rubbish,,,,wilis ; wulis,doti
 SN001577,hit,syute,,,HIT [1433],hit,,,,,hitim
 SN001578,scissortail sergeant or a similar fish species,syuwewe_ne_mesa,,,,scissortail.sergeant,,,fauna ; aquatic creatures,,kaen fis we i grin mo blu wetem ol blak straep
 SN001579,high ranking,LX000048,,,,high,,,,,hae
@@ -2074,7 +2074,7 @@ SN002072,rest your head,wilya,,,,rest.head,,,,,putum hed long (wan pilo etc) blo
 SN002073,peel,wilyakate,,,PEEL [275],peel,,,,,pilim
 SN002074,grief,wilyo,,,GRIEF [1668],grief,,,custom,,filing blong sad taem we wan man i ded
 SN002075,win,win,,,WIN [866],win,,,,,
-SN002076,beat,winim,,,BEAT [1665],beat,,,,save_1,
+SN002076,beat,winim,,,BEAT [1665],beat,,,,save,
 SN002077,Pacific pigeon; Pacific imperial pidgeon,wip,,,,pacific.pidgeon,,Ducula pacifica,fauna ; birds,,nawimba
 SN002078,day after tomorrow,wis,,,DAY AFTER TOMORROW [1179],day.after.tomorrow,,,climate,,afta tumoro
 SN002079,probably ; probably,wisewe,,,,probably,,,,,ating
@@ -2173,7 +2173,7 @@ SN002171,now,yene,,,NOW [1376],now,,,,,nao ia
 SN002172,smoke,yes,,"In Sesivi, yes, in Emyotungan yeskuon",,smoke,,,food,yeskuon,smok
 SN002173,turn,yes_1,,,TURN [1588],turn,,,,,
 SN002174,trumpetfish,yesip,,,,trumpetfish,,Family Balistidae,fauna ; aquatic creatures,,longmaot
-SN002175,smoke,yeskuon,,,,smoke,,,,yes_1,smok
+SN002175,smoke,yeskuon,,,,smoke,,,,yes,smok
 SN002176,turn back,yestase,,,,turn.back,,,,,tonem bakegen
 SN002177,one or more leaves of an arbitrary tree,yesukuo,,Laub,,leaves,,,plants,,lif blong evri tri
 SN002178,green,yesyes,,,GREEN [1425],green,,,color,,grin

@@ -92,10 +92,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Homonym"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Lexical_Citation_Form",
                         "titles": "lexical citation form"
                     },
@@ -351,6 +347,10 @@
                         "datatype": "string",
                         "separator": " ; ",
                         "name": "Sense_IDs"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "alt_translation1"
                     }
                 ],
                 "foreignKeys": [

@@ -16,9 +16,6 @@
     "date_published": "2017-03-30",
     "number": 1,
     "properties": {
-        "entry_id": "lx",
-        "entry_sep": "\\lx",
-        "entry_label_as_regex_for_link": "[^;]+",
         "image": {"copyright": "Copyright Tio Bang"},
         "marker_map": {
             "zcom2": "zcom1"
@@ -55,9 +52,6 @@
             "ge": "Gloss",
             "dn": "alt_translation1"
         },
-        "process_links_in_labels": [
-            "cf", "an", "sy"
-        ],
         "custom_fields": [],
         "second_tab": ["Bislama", "etymological source", "encyclopedic information"],
         "metalanguages": {

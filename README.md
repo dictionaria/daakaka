@@ -3,11 +3,11 @@
 > by Kilu von Prince
 
 This repository contains the data underlying the published version of the dictionary
-at [Dictionaria](https://dictionaria.clld.org/contributions/daakaka) as [CLDF](https://cldf.clld.org) 
-[Dictionary](cldf) 
+at [Dictionaria](https://dictionaria.clld.org/contributions/daakaka) as [CLDF](https://cldf.clld.org)
+[Dictionary](cldf)
 [![Build Status](https://travis-ci.org/dictionaria/daakaka.svg?branch=master)](https://travis-ci.org/dictionaria/daakaka)
 
-Releases of this repository are archived with and accessible through 
+Releases of this repository are archived with and accessible through
 [ZENODO](https://zenodo.org/communities/dictionaria) and the latest release
 is published on the [Dictionaria website](https://dictionaria.clld.org).
 
@@ -651,7 +651,7 @@ The orthography used for the dictionary and examples follows the standards devel
 </tbody>
 </table>
 <figure class="img">
-<img src="http://cdstar.shh.mpg.de/bitstreams/EAEA0-730F-4F43-2CC9-0/Vowels.png" title="fig:vowels"/>
+<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-730F-4F43-2CC9-0/Vowels.png" title="fig:vowels"/>
 <figcaption>Figure 1</figcaption>
 </figure>
 
@@ -957,11 +957,11 @@ There are some clearly identifiable hierarchically ordered groups, which couldbe
   
 
 <figure class="img" id="fig2">
-<img alt="Taxonomy of plants with stalks or trunks" class="img-thumbnail" src="http://cdstar.shh.mpg.de/bitstreams/EAEA0-AD28-25DB-54CD-0/TaxonomiesLee.png"/>
+<img alt="Taxonomy of plants with stalks or trunks" class="img-thumbnail" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-AD28-25DB-54CD-0/TaxonomiesLee.png"/>
 <figcaption>Figure 2</figcaption>
 </figure>
 <figure class="img" id="fig3">
-<img alt="Taxonomy of vines" class="img-thumbnail" src="http://cdstar.shh.mpg.de/bitstreams/EAEA0-9CCD-6094-EC44-0/TaxonomiesAua.png"/>
+<img alt="Taxonomy of vines" class="img-thumbnail" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-9CCD-6094-EC44-0/TaxonomiesAua.png"/>
 <figcaption>Figure 3</figcaption>
 </figure>
 

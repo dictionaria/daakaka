@@ -367,6 +367,17 @@
                     },
                     {
                         "columnReference": [
+                            "Sense_IDs"
+                        ],
+                        "reference": {
+                            "resource": "senses.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
                             "Language_ID"
                         ],
                         "reference": {
@@ -409,6 +420,10 @@
                     {
                         "datatype": "string",
                         "name": "Filename"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Description"
                     },
                     {
                         "datatype": "anyURI",

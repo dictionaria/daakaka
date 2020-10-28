@@ -1,0 +1,28 @@
+{
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "dictionaria"
+        }
+    ],
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "creators": [
+        {
+            "name": "Kilu von Prince"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "dataset",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "title": "dictionaria/daakaka: Daakaka dictionary"
+}

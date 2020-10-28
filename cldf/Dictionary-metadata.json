@@ -47,33 +47,27 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "1st_Person_Singular",
-                        "titles": "1st person singular"
+                        "name": "1st_Person_Singular"
                     },
                     {
                         "datatype": "string",
-                        "name": "2nd_Person_Singular",
-                        "titles": "2nd person singular"
+                        "name": "2nd_Person_Singular"
                     },
                     {
                         "datatype": "string",
-                        "name": "3rd_Person_Dual",
-                        "titles": "3rd person dual"
+                        "name": "3rd_Person_Dual"
                     },
                     {
                         "datatype": "string",
-                        "name": "3rd_Person_Singular",
-                        "titles": "3rd person singular"
+                        "name": "3rd_Person_Singular"
                     },
                     {
                         "datatype": "string",
-                        "name": "Dialectal_Variant",
-                        "titles": "dialectal variant"
+                        "name": "Dialectal_Variant"
                     },
                     {
                         "datatype": "string",
-                        "name": "Encyclopedic_Information",
-                        "titles": "encyclopedic information"
+                        "name": "Encyclopedic_Information"
                     },
                     {
                         "datatype": "string",
@@ -82,18 +76,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Etymological_Source",
-                        "titles": "etymological source"
+                        "name": "Etymological_Source"
                     },
                     {
                         "datatype": "string",
-                        "name": "Etymology",
-                        "titles": "etymology"
+                        "name": "Etymology"
                     },
                     {
                         "datatype": "string",
-                        "name": "Lexical_Citation_Form",
-                        "titles": "lexical citation form"
+                        "name": "Lexical_Citation_Form"
                     },
                     {
                         "datatype": "string",
@@ -102,18 +93,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Paradigm",
-                        "titles": "paradigm"
+                        "name": "Paradigm"
                     },
                     {
                         "datatype": "string",
-                        "name": "Reduplicated_Form",
-                        "titles": "reduplicated form"
+                        "name": "Reduplicated_Form"
                     },
                     {
                         "datatype": "string",
-                        "name": "Usage",
-                        "titles": "usage"
+                        "name": "Usage"
                     }
                 ],
                 "foreignKeys": [
@@ -207,8 +195,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Scientific_Name",
-                        "titles": "Scientific name"
+                        "name": "Scientific_Name"
                     },
                     {
                         "datatype": "string",
@@ -436,6 +423,9 @@
                         "datatype": "integer",
                         "name": "size"
                     }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "media.csv"

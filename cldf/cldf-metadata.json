@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/daakaka",
-            "dc:created": "v1.1.1-4-g2806893"
+            "dc:created": "v1.1.1-9-g4ea3465"
         },
         {
             "rdf:type": "prov:Entity",

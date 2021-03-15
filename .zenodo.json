@@ -1,4 +1,15 @@
 {
+    "title": "dictionaria/daakaka: Daakaka Dictionary",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Kilu von Prince"
+        }
+    ],
     "communities": [
         {
             "identifier": "cldf-datasets"
@@ -10,19 +21,9 @@
             "identifier": "dictionaria"
         }
     ],
+    "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
     },
-    "creators": [
-        {
-            "name": "Kilu von Prince"
-        }
-    ],
-    "access_right": "open",
-    "upload_type": "dataset",
-    "keywords": [
-        "cldf:Dictionary",
-        "linguistics"
-    ],
-    "title": "dictionaria/daakaka: Daakaka dictionary"
+    "description": "von Prince, Kilu. 2017. Daakaka dictionary. Dictionaria 1. 1-2167 (Available online at https://dictionaria.clld.org/contributions/daakaka)"
 }

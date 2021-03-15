@@ -1,4 +1,4 @@
-# Daakaka dictionary
+# Daakaka Dictionary
 
 > by Kilu von Prince
 

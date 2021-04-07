@@ -11,8 +11,8 @@ property | value
 [dc:creator](http://purl.org/dc/terms/creator) | Kilu von Prince
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://dictionaria.clld.org/contributions/daakaka
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:dictionaria/daakaka
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:dictionaria/daakaka/tree/c3d90ea">git@github.com:dictionaria/daakaka v1.1.1-12-gc3d90ea</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3-treedb-fixes">Glottolog v4.3-treedb-fixes</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/dictionaria/daakaka
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/dictionaria/daakaka/tree/9a2582a">dictionaria/daakaka v1.1.1-13-g9a2582a</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | daakaka
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

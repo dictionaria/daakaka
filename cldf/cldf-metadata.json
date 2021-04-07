@@ -9,7 +9,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
     "dc:creator": "Kilu von Prince",
     "dc:identifier": "https://dictionaria.clld.org/contributions/daakaka",
-    "dc:license": "CC-BY 4.0",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Daakaka Dictionary",
     "dcat:accessURL": "git@github.com:dictionaria/daakaka",
     "prov:wasDerivedFrom": [
@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/daakaka",
-            "dc:created": "v1.1.1-9-g4ea3465"
+            "dc:created": "v1.1.1-12-gc3d90ea"
         },
         {
             "rdf:type": "prov:Entity",
